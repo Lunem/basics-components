@@ -1,0 +1,13 @@
+.tabs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 600px;
+  border-radius: 8px 8px 0 0;
+  background-color: white;
+}
+
+.tab {
+  background-color: grey;
+  padding: 0 50px 0 50px;
+}

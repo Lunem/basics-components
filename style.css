@@ -3,10 +3,12 @@
 @import url("badge.css");
 @import url("banner.css");
 @import url("card.css");
+@import url("basics.css");
+@import url("tabs.css");
 
 body {
   font-family: sans-serif;
-  margin: auto;
+  margin: 20px;
   text-align: center;
 }
 
