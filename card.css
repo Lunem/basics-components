@@ -1,0 +1,31 @@
+.card {
+color: white;
+height: 150px;
+background-size: cover;
+
+}
+
+.card-category {
+  text-transform: uppercase;
+  float: left;
+  margin-top: 20px;
+  margin-left: 30px;
+
+}
+
+.card-description {
+text-align: left;
+padding-top: 50px;
+padding-left: 30px;
+}
+
+.card-user {
+width: 40px !important;
+float: right;
+margin-top: -140px;
+margin-right: 20px;
+}
+
+.card-link {
+
+}
